@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Songyang Han"
+title                    : "Songyang Han / Homepage"
 title_separator          : "-"
 name                     : &name "Songyang Han"
 description              : &description "personal description"
