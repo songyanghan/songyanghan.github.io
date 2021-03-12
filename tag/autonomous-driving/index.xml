@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autonomous Driving | Songyang Han</title>
+    <link>https://songyanghan.github.io/tag/autonomous-driving/</link>
+      <atom:link href="https://songyanghan.github.io/tag/autonomous-driving/index.xml" rel="self" type="application/rss+xml" />
+    <description>Autonomous Driving</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Songyang Han</copyright><lastBuildDate>Fri, 12 Mar 2021 03:13:15 +0000</lastBuildDate>
+    <image>
+      <url>https://songyanghan.github.io/media/icon_hu8f3a21fc70c42f874ce13127d6719c5f_83129_512x512_fill_lanczos_center_2.png</url>
+      <title>Autonomous Driving</title>
+      <link>https://songyanghan.github.io/tag/autonomous-driving/</link>
+    </image>
+    
+    <item>
+      <title>Learning and Control for Connected Autonomous Vehicles</title>
+      <link>https://songyanghan.github.io/project/learning-and-control-for-connected-autonomous-vehicles/</link>
+      <pubDate>Fri, 12 Mar 2021 03:13:15 +0000</pubDate>
+      <guid>https://songyanghan.github.io/project/learning-and-control-for-connected-autonomous-vehicles/</guid>
+      <description>&lt;p&gt;Vehicle-to-vehicle (V2V) and Vehicle-to-Infrastructure (V2I) wireless connectivity is the next frontier in road transportation, which will greatly benefit the safety and reliability of autonomous cars. Information shared among autonomous vehicles provides opportunities to better coordination schemes and also raises novel challenges. In the future, connected autonomous vehicles (CAVs) equipped with both self-driving technology and V2V connectivity, will lead to vastly improved road safety and efficient traffic flow. However, existing literature for connected vehicles or platoons still lacks understanding of the tridirectional relationship among communication, learning, and control of CAVs. Questions such as under what conditions coordination among vehicles can be built, or how to take the best advantage of shared information to improve safety of the connected vehicles and efficiency of the traffic flow remain challenging. Hence, it is critical for future connected autonomous vehicles systems to operate based on integrated learning and control theories, techniques and coordination protocols under complicated environments. This project aims to build fundamental theories and implement experiments for a safe and efficient decision-making process of autonomous vehicles under dynamic and uncertain environment. The benefits of sharing different types of information is analyzed at different scales, from system level efficiency to safety guarantee of each individual autonomous vehicle. Experiments will be implemented with both 1/10th scale racing cars and full-scale autonomous vehicles on Uconn Depot Campus by collaborating with &lt;a href=&#34;https://ctsrc.uconn.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Connecticut Transportation Safety Research Center&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
